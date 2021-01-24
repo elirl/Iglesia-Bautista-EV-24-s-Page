@@ -15,7 +15,6 @@ Swal.fire({
   timer: 1000,
   showConfirmButton: false,
   width: 370,
-position:'top-end',
   color:'white',
   padding: '3em',
   background: '#fff',
